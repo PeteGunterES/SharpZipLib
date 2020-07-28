@@ -1,0 +1,7 @@
+{
+  "name": "com.electricsquare.sharpziplib",
+  "version": "1.0.0",
+  "displayName": "SharpZipLib",
+  "description": "Fork of SharpZipLib for distribution as a Unity package",
+  "dependencies": {}
+}
